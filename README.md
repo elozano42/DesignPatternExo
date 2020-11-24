@@ -1,1 +1,1 @@
-# DesignPatternExo
+# salarie_exercises_php
